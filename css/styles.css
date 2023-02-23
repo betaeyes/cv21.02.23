@@ -1,0 +1,23 @@
+body {
+  background-color: #f9f7f7;
+}
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 25%;
+  border-color: #dbe2ef;
+}
+h1 {
+  color: #3f72af;
+  font-family: Georgia, serif;
+  text-shadow: 5px 5px 5px #dbe2ef;
+}
+h3 {
+  color: #3f72af;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.main_table {
+}
