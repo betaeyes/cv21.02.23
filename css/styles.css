@@ -13,11 +13,24 @@ h1 {
   text-shadow: 5px 5px 5px #dbe2ef;
 }
 h3 {
+  text-align: center;
   color: #3f72af;
 }
 img {
   max-width: 100%;
   height: auto;
 }
-.main_table {
+a{
+  color: #F9F7F7;
+  background-color: #3F72AF;
+  text-decoration: none;
+  padding: 1px;
+  transition: background-color 1s;
 }
+a:hover {
+  background-color: #F9F7F7;
+  color: #3F72AF;
+  font-size: 40px;
+}
+
+
