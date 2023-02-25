@@ -19,6 +19,8 @@ h3 {
 img {
   max-width: 100%;
   height: auto;
+  box-shadow: 5px 5px 5px #3f72af;
+  background-color: #dbe2ef;
 }
 a{
   color: #F9F7F7;
